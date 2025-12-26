@@ -603,9 +603,9 @@ F 3 "" H 6225 4375 50  0001 C CNN
 	1    6225 4375
 	0    1    1    0   
 $EndComp
-Text GLabel 6225 4475 0    39   Input ~ 0
-URX
 Text GLabel 6225 4575 0    39   Input ~ 0
+URX
+Text GLabel 6225 4475 0    39   Input ~ 0
 UTX
 NoConn ~ 6225 4675
 $Comp
